@@ -253,7 +253,7 @@ DEPENDENCIES:
   - Firebase/Firestore
 
 SPEC REPOS:
-  trunk:
+  https://cdn.cocoapods.org/:
     - abseil
     - BoringSSL-GRPC
     - Firebase
