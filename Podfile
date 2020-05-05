@@ -7,5 +7,6 @@ target 'DebugGrpc' do
 
   # Pods for DebugGrpc
   pod 'Firebase/Auth'
+  pod 'Firebase/Firestore'
 
 end
